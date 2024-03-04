@@ -11,16 +11,16 @@ This repository contains the implementation of a Deep Belief Network (DBN) for v
 ## Project Objectives
 The main objectives of the project include:
 
-- Perform Linear Read-Outs:
+- **Perform Linear Read-Outs:**
 Investigate the disentanglement of sensory representations at different levels of the DBN hierarchy.
 
-- Analyze Internal Representations:
+- **Analyze Internal Representations:**
 Utilize hierarchical clustering and feature visualization methods to analyze the internal representations developed by the model.
 
-- Visualize Confusion Matrices and Psychometric Curves:
+- **Visualize Confusion Matrices and Psychometric Curves:**
 Create confusion matrices and psychometric curves to understand the model's error patterns, especially under the influence of added noise.
 
-- Explore Adversarial Attacks and Few-Shot Learning:
+- **Explore Adversarial Attacks and Few-Shot Learning:**
 Examine the model's response to adversarial attacks and its capability in few-shot learning scenarios.
 
 ## Implementation Details:
