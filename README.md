@@ -2,7 +2,6 @@
 
 # Cognition And Computation - Deep Belief Network for Visual Concept Learning
 
- [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## About
