@@ -1,6 +1,6 @@
 
 
-# Cognition And Computation - Deep Belief Network for Visual Concept Learning
+# Deep Belief Network for Visual Concept Learning
 
 
 
